@@ -8,3 +8,7 @@
 ```
 git checkout -b favour/landingpage
 ```
+- [x] Learn how to use react
+- [x] Complete my portfolio
+- [ ] Build more projects using React
+- [ ] Complete All-in-Africa program
